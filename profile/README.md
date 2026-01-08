@@ -1,18 +1,4 @@
-> [!NOTE]
-> We are just getting set up here - everything you see should be considered unofficial
-
-# Mathematics for Rewilding
-
-We are a multi-disciplinary collaboration with a shared ambition to advance the role of mathematical sciences in supporting rewilding initiatives worldwide.
-
 Mathematics for Rewilding is a [Mathematics for Humanity](https://www.icms.org.uk/funding-opportunities/mathematics-humanity) programme.
-Funded by xyz.
-
-Useful links:
-
-- Website
-- Zotero library
-- Discord
 
 <!--
 
